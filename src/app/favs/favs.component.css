@@ -1,0 +1,21 @@
+.favs {
+    width: 70%;
+    margin: auto;
+}
+table {
+    width: 100%;
+    box-sizing: border-box;
+    word-wrap: break-word; 
+    table-layout: fixed;
+}
+th {
+    text-align: center !important;
+    font-size: 1em;
+    color: rgb(255, 0, 106);
+}
+td {
+    text-align: center !important;
+}
+h2 {
+    text-align: center;
+}

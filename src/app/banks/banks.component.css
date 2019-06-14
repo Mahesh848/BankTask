@@ -1,0 +1,31 @@
+.banks {
+    width: 70%;
+    margin: auto;
+}
+form {
+    width: 100%;
+    display: flex;
+}
+.city-dropdown {
+    width: 20%;
+    margin-right: 10%;
+    margin-top: 20px;
+}
+.search-bar {
+    width: 70%;
+}
+table {
+    width: 100%;
+    box-sizing: border-box;
+    word-wrap: break-word; 
+    table-layout: fixed;
+}
+th {
+    text-align: center !important;
+    font-size: 1em;
+    color: rgb(255, 0, 106);
+}
+td {
+    text-align: center !important;
+}
+
